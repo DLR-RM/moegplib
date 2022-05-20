@@ -12,7 +12,7 @@ from moegplib.utils.logger import SaveAndLoad, BoardLogger
 from moegplib.networks.toydata import SnelsonPrimeNet
 from moegplib.networks.modelquantiles import ModelQuantiles
 from moegplib.clustering.quantiles import quantiles1d
-from moegplib.moegp.gpytorch import NTK1DGP
+from moegplib.moegp.gkernels import NTK1DGP
 
 import matplotlib.pyplot as plt
 
