@@ -2,7 +2,7 @@
 MOEGPLIB: A Library for Mixtures of GP Experts.
 ==========
 
-MOEGPLIB contains the code used for the CoRL submission:
+MOEGPLIB contains the code for the CoRL paper:
 
 **Trust your robots! Predictive uncertainty estimation of neural networks with scalable Gaussian Processes.**
 
