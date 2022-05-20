@@ -18,7 +18,7 @@ Some of these methods are used as a baseline, and others are the results of the 
 
 **Motivation:** Deep Neural Networks (DNNs) are wonderful tools for building predictors with large amounts of data, but notorious for delivering poor uncertainty estimates. On the other hand, Gaussian Processes (GPs) are theoretically elegant, and known to provide well-calibrated uncertainties. But, GPs does not scale well to big data-sets, and generally lacks predictive power as oppose to DNNs. To obtain a tool that has the best of both worlds, we started this project. As GP regression is analytically tractable, making its predictions just serious of matrix multiplications. We also note that, popular models Bayesian Neural Networks, and deep ensembles are hard to deploy them on a robot, as they require combining multiple predictions of DNNs.
 
-**Important Note:** This repository is for reviewing only and a preliminary version, which we plan to open source. Illegal usages of the code, or its distribution can have legal consequences. After a thorough clean up, restructuring and testing, we will open-source the code, following the official procedures.
+**Important Note:** We are currently updating the code along with another iteration of the method development. The plan is to have a major release until Fall 2022.
 
 Installation Guide
 ===========
